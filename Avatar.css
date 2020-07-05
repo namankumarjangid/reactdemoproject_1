@@ -1,0 +1,14 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.pic img{
+    width: 200px;
+    height: 200px;
+}
+h1{
+    text-align: center;
+}
+button{
+    background-color: aqua;
+    
+}
